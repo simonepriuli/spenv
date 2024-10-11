@@ -1,5 +1,3 @@
-.superenv
-
 /node_modules
-
 /dist
+.superenv
